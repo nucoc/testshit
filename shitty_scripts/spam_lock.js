@@ -5,3 +5,5 @@ var fSpamLock = function(){
     $.Schedule( 0, fSpamLock );
   }
 }
+
+fSpamLock();
