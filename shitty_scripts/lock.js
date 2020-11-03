@@ -1,0 +1,1 @@
+Game.SetTeamSelectionLocked( !Game.GetTeamSelectionLocked() );
